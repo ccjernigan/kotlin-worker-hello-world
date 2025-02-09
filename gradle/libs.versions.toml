@@ -1,9 +1,9 @@
 [versions]
-kotlin = "1.9.22"
-kotlinx-coroutines = "1.7.3"
+kotlin = "2.1.10"
+kotlinx-coroutines = "1.10.1"
 miniflare = "3.20231218.4"
-node = "20.11.0"
-webpack-cli = "5.1.4"
+node = "23.5.0"
+webpack-cli = "6.0.1"
 
 [libraries]
 kotlin-gradle = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
